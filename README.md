@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jtnovoamatte
+- 👋 Hi, I’m José Tomás
 - 👀 I’m interested in programming human solutions for daily basis needs.
 - 🌱 I’m currently learning basic programming with HTML, CSS, PHP, Javascript and SQL to build a system from scratch. And also playing between Solidity and smart contracts.
 - 💞️ I’m looking to collaborate on software and product development.
