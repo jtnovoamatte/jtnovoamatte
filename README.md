@@ -1,4 +1,4 @@
 - 👋 Hi, I’m José Tomás
 - 👀 I’m interested in programming human solutions for daily basis needs.
 - 🌱 I’m currently learning basic programming with Node JS and MySQL to build a system from scratch.
-- 📫 How to reach me? Message me to jonovoa@uc.cl
+- 📫 How to reach me? Go to josetomasnovoa.com and introduce yourself.
